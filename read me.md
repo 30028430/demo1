@@ -1,1 +1,1 @@
-# firsyt repositery
+# my first repositery
